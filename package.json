@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/tdelima11.lwc-l761poad",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 5ofsBxK6X2MoDrN9eP9S --open"
+  }
+}
